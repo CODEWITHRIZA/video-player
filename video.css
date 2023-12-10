@@ -25,6 +25,17 @@ video {
 h2 {
   margin-top: 0;
 }
+
+.video-info {
+  display: flex;
+  align-items: center;
+}
+
+.profile-info {
+  display: flex;
+  align-items: center;
+}
+
 .profile-pic {
   width: 50px; /* Adjust the width as needed */
   height: 50px; /* Adjust the height as needed */
